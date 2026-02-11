@@ -2,7 +2,7 @@
 
 ## Candidate
 - Name: Can Akgül
-- Approximate time spent: 45 min
+- Approximate time spent: 60 min
 
 ---
 
